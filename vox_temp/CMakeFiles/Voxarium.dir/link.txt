@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Voxarium.dir/Vox/src/Octree.cpp.o CMakeFiles/Voxarium.dir/Vox/src/Point3D.cpp.o CMakeFiles/Voxarium.dir/Vox/src/main.cpp.o CMakeFiles/Voxarium.dir/Vox/src/Chunk.cpp.o  -o Voxarium -rdynamic glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lGLU -lGL -lSM -lICE -lX11 -lXext -lGLEW 
